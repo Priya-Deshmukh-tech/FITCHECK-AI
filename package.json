@@ -1,0 +1,7 @@
+{
+  "name": "fitcheck-ai-full-stack-starter",
+  "version": "2.0.0",
+  "private": true,
+  "description": "FITCHECK AI starter with Supabase accounts, private wardrobe, and n8n integration",
+  "scripts": { "start": "node server.js" }
+}
